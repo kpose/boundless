@@ -20,7 +20,7 @@ const SplashScreen = ({navigation}) => {
         <Animatable.View 
             style={styles.footer}
             animation="fadeInUpBig"
-        >
+        > //hyhy
             <Text style={styles.title}>Stay connected with everyone!</Text>
             <Text style={styles.text}>Sign in with account</Text>
             <View style={styles.button}>
